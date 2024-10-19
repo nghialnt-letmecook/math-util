@@ -1,3 +1,5 @@
+[![Nghĩa](https://github.com/nghialnt-letmecook/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/nghialnt-letmecook/math-util/actions/workflows/ci-script.yml)
+
 # Math Utility (Maven project)
 
 ## Welcome to Math utility project
